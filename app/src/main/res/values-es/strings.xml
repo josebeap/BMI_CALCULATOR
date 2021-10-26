@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="height">Estatura (metros)</string>
+    <string name="weight">Peso (Kilogramos)</string>
+    <string name="restart">Reiniciar</string>
+    <string name="calculate">Calcular</string>
+    <string name="Your_BMI">Su IMC es: %1$s</string>
+    <string name="boxEmpty">Las casillas no deben ser vacias o contener 0</string>
+    <string name="app_name">CALCULADORA IMC</string>
+    <string name="information">Información</string>
+    <string name="low_weight">Bajo Peso</string>
+    <string name="normal_weight">Peso Normal</string>
+    <string name="overweight">Sobrepeso</string>
+    <string name="obesity">Obecidad</string>
+    <string name="low_weight1">Menos de 18.5</string>
+    <string name="normal_weight2">18.5 – 24.9</string>
+    <string name="overweight3">25.0 – 29.9</string>
+    <string name="obesity4">Más de 30.0</string>
+</resources>

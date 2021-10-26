@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CALCULADORA DE IMC</string>
+    <string name="height">Altura (x)</string>
+    <string name="weight">Peso (Kg)</string>
+    <string name="restart">Reiniciar</string>
+    <string name="calculate">Calcular</string>
+    <string name="Your_IMC">Seu IMC é:  %1$s</string>
+    <string name="boxEmpty">As caixas a seguir não podem estar vazias ou zero.</string>
+</resources>
